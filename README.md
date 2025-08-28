@@ -20,6 +20,4 @@ git remote add orogin url_repositorio_remoto
 git add .
 git commit -m "proyecto base"
 git push origin master
-
 ```
-
